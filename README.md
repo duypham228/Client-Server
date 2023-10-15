@@ -126,3 +126,8 @@ if (route.equals("product")) {
 
 - <b>ProductClient.java:</b> This class is the first client side of the application. It will send a message "GET" to the server to tell the server that it is a ProductClient. Then it will wait for the user to enter the product id to show the information of that product.
 - <b>UpdateProductClient.java:</b> This class is the second client side of the application. It will send a message "UPDATE" to the server to tell the server that it is a UpdateProductClient. Then it will wait for the user to enter the product id, attribute to update, and new data to update the information of that product.
+
+## 3. UAT Video Recording
+
+- <b>Question 1, 2:</b> https://youtu.be/5FsxD4zaDGQ
+- <b>Question 3:</b> https://youtu.be/dJqqX5vFL14
